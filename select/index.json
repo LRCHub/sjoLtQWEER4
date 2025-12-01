@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Flowerwall",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-01T03:37:15.335242Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flowerwall",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Flowerwall_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Flowerwall",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_Flowerwall_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Flowerwall",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_Flowerwall_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Flowerwall",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_Flowerwall_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Flowerwall",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_Flowerwall_米津玄師.txt"
+    }
+  ]
+}
