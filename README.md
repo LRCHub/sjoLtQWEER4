@@ -1,4 +1,4 @@
-# Kenshi Yonezu – Flowerwall
+# 米津玄師 – Flowerwall
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
